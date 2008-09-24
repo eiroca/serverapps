@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G16/F1066.php");$this->ID=1067;$this->display_max_image_width=120;$this->display_resolution_width=128;?>
